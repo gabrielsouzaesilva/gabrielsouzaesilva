@@ -3,8 +3,17 @@
 
 # Projects under development
 - **PytolaFC**: a Pytonic way to get CartolaFC data => [gabrielsouzaesilva/pytolafc](https://github.com/gabrielsouzaesilva/pytolafc) 🥅⚽🏃
-    - Tech stack: **🐍 python**
+    - Tech stack: **🐍 Python**
+    - Topics: #data #football #cartolafc
 
 # Studies
 - **COVID-19 Crysis impact on the Brazillian stock market**: [gabrielsouzaesilva.github.io/pyBuff](https://gabrielsouzaesilva.github.io/pyBuff/) 💸📉 [:snake:Python]
-    - Tech stack: **🐍 python + MongoDB**
+    - Tech stack: **🐍 Python + MongoDB**
+    - Topics: #data #data-science #stock-market
+
+
+# Past Projects 
+- **Steve** Vehicle telemetry system [https://projetosteve.wordpress.com/](https://projetosteve.wordpress.com/)
+    - Role: Project manager and app developper
+    - Tech stack: **:snake: Python + React Native + Raspberry Pi + MySQL**
+    - Topics: #IoT #data #cars
