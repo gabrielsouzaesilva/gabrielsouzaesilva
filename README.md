@@ -3,7 +3,8 @@
 
 # Projects under development
 - **PytolaFC**: a Pytonic way to get CartolaFC data => [gabrielsouzaesilva/pytolafc](https://github.com/gabrielsouzaesilva/pytolafc) 🥅⚽🏃
-
+    - Tech stack: **🐍 python**
 
 # Studies
-- **COVID-19 Crysis impact on the Brazillian stock market**: [gabrielsouzaesilva.github.io/pyBuff](https://gabrielsouzaesilva.github.io/pyBuff/) 💸📉☣️
+- **COVID-19 Crysis impact on the Brazillian stock market**: [gabrielsouzaesilva.github.io/pyBuff](https://gabrielsouzaesilva.github.io/pyBuff/) 💸📉 [:snake:Python]
+    - Tech stack: **🐍 python + MongoDB**
