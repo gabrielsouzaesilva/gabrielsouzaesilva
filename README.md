@@ -2,6 +2,11 @@
 - Born in Brazil 🇧🇷 where I starded my studies and finished my Masters at Université de Technologie de Compiègne in France 🇫🇷
 
 # Projects under development
+- **PP Bot**: A Discord Bot => [gabrielsouzaesilva/ppbot](https://github.com/gabrielsouzaesilva/ppbot) 🤖
+    - Tech stack: **🐍 Python + Heroku**
+    - Topics: #discord #bot
+
+
 - **PytolaFC**: a Pytonic way to get CartolaFC data => [gabrielsouzaesilva/pytolafc](https://github.com/gabrielsouzaesilva/pytolafc) 🥅⚽🏃
     - Tech stack: **🐍 Python**
     - Topics: #data #football #cartolafc
