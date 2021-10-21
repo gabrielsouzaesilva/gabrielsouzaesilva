@@ -12,7 +12,7 @@
     - Topics: #data #football #cartolafc
 
 # Studies
-- **COVID-19 Crysis impact on the Brazillian stock market**: [gabrielsouzaesilva.github.io/pyBuff](https://gabrielsouzaesilva.github.io/pyBuff/) 💸📉 [:snake:Python]
+- **COVID-19 Crysis impact on the Brazillian stock market**: [gabrielsouzaesilva.github.io/pyBuff](https://gabrielsouzaesilva.github.io/pyBuff/) 💸📉
     - Tech stack: **🐍 Python + MongoDB**
     - Topics: #data #data-science #stock-market
 
@@ -20,5 +20,5 @@
 # Past Projects 
 - **Steve** Vehicle telemetry system [https://projetosteve.wordpress.com/](https://projetosteve.wordpress.com/)
     - Role: Project manager and app developper
-    - Tech stack: **:snake: Python + React Native + Raspberry Pi + MySQL**
+    - Tech stack: **:snake: Python + ⚛️ React Native + Raspberry Pi + 🐬 MySQL**
     - Topics: #IoT #data #cars
